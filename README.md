@@ -109,10 +109,5 @@ You can further customize the color scheme by editing the `Hacker.sublime-color-
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
 
----
-
-Enjoy your new hacker-themed coding environment! If you have any issues or suggestions, feel free to open an issue on GitHub.
-
-```
