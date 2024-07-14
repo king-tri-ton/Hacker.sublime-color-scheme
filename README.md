@@ -1,9 +1,9 @@
-```
 # Hacker Color Scheme for Sublime Text
 
 A dark, neon-themed color scheme for Sublime Text that gives your coding environment a "hacker" vibe. This color scheme features bright, vibrant colors on a dark background, designed to enhance your coding experience and make your code pop.
 
-![Hacker Color Scheme Screenshot](path/to/screenshot.png)
+![Hacker Color Scheme Screenshot](https://github.com/user-attachments/assets/08d684a2-08f5-438f-bf1c-f78c75a88d0b)
+
 
 ## Installation
 
